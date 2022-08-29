@@ -4,11 +4,11 @@
 
 Saving and loading with gamemakerstudio...
 
-# Download
+## Download
 
 >https://marketplace.yoyogames.com/assets/11100/ds_map_example
 
-# I made the following link for reference
+## I made the following link for reference
 
 > https://www.multimediaxis.de/threads/142793-Vorstellung-Entwicklertagebuch-SANTRIA%21?p=3298159&viewfull=1#post3298159
 
@@ -16,7 +16,7 @@ Saving and loading with gamemakerstudio...
 
 > https://manual.yoyogames.com/GameMaker_Language/GML_Overview/Accessors.htm
 
-# Licence
+## Licence
 
 >https://marketplace.yoyogames.com/eula
 
