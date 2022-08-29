@@ -1,6 +1,10 @@
-# gamemaker2.3_ds_map
+# Gamemaker2.3_ds_map
 
 Saving and loading with gamemakerstudio...
+
+# Download
+
+>https://marketplace.yoyogames.com/assets/11100/ds_map_example
 
 # I made the following link for reference
 
@@ -11,8 +15,6 @@ Saving and loading with gamemakerstudio...
 > https://manual.yoyogames.com/GameMaker_Language/GML_Overview/Accessors.htm
 
 # Licence
-
->https://marketplace.yoyogames.com/assets/11100/ds_map_create_master
 
 >https://marketplace.yoyogames.com/eula
 
