@@ -6,7 +6,7 @@ Saving and loading with gamemakerstudio...
 
 ## Download
 
->https://marketplace.yoyogames.com/assets/11100/ds_map_example
+>https://marketplace.yoyogames.com/assets/11100/ds_map_creator
 
 ## I made the following link for reference
 
